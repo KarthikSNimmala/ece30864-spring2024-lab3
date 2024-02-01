@@ -2,7 +2,7 @@ a) Project Manager is the closest to the Product Owner. In an agile organization
 b) A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. Product Owners manage the product backlog and ensure the company gains maximum value from the product.
 Below are some of the common responsibilities for the Scrum Master position.
 
-- Plan and execute the Agile Methodology with the Scrum development team.
+- Plan and execute the Agile Methodology with the Scrum development team
 - Monitor the sprint's progress and remove roadblocks impeding the product's development.
 - Work with the Product Owner to make sure the product backlog is up to date.
 - Communicate changes in the product backlog to the development team.
