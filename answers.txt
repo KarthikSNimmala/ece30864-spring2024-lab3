@@ -17,3 +17,12 @@ Here are some responsibilities for Product Owners.
 - Ensure the product backlog is updated and available to the entire development team.
 - Work across departments and prioritize tasks for the Scrum Master based on stakeholder needs.
 - Evaluate progress throughout the development process.
+c) The three types of meetings are: 
+ -> Sprint Planning Meeting
+  ~ Plan tasks for the sprint (specific, can be completed)
+  ~ Task Effort estimation and Task allocation
+ -> Sprint Retrospective Meeting
+  ~ Look back on completed sprint
+  ~ Assess weak points, move unfinished tasks to backlog
+ -> Scrum Meeting
+  ~ Daily meetings to discuss what was completed yesterday, what will be completed today and any blockers.
